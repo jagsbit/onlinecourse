@@ -2,7 +2,7 @@ let db=[
     {
         crimg:"react.svg",
         subtitle:"React",
-        tutor:"suraj Kumar Yadav",
+        tutor:"Suraj Kumar Yadav",
         fees:"$50",
         Rate:"4.5"
 
